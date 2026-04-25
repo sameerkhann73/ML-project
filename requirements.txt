@@ -26,4 +26,6 @@ numpy
 scikit-learn
 matplotlib
 seaborn
--e .
+catboost
+xgboost
+# -e .
